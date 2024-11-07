@@ -1,0 +1,31 @@
+/* TourDates.css */
+.tour-dates {
+    text-align: center;
+}
+
+.event {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #1a1a1a;
+    border-radius: 8px;
+}
+
+.event img {
+    width: 80px;
+    height: 80px;
+    border-radius: 8px;
+    margin-right: 15px;
+}
+
+.event h3 {
+    font-size: 1.2em;
+    color: #6b6bff;
+    margin-bottom: 5px;
+}
+
+.event p {
+    color: #cccccc;
+    margin: 3px 0;
+}
