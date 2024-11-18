@@ -1,4 +1,7 @@
 /* Gallery.css */
+. {
+    justify-content: center;
+}
 .gallery {
     display: flex;
     flex-wrap: wrap;
